@@ -7,9 +7,8 @@
   "scope": "/",
   "short_name": "mariosrvchame.github",
   "start_url": "/",
-  "theme_color": "#6586d5",
+  "theme_color": "#0f172a",
   "description": "Ctl. de gastos personales",
-  "lang": "es",
   "categories": [
     "finance"
   ]
