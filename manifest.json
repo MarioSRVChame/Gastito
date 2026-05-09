@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "mariosrvchame.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "mariosrvchame.github",
+  "start_url": "/",
+  "theme_color": "#6586d5",
+  "description": "Ctl. de gastos personales",
+  "lang": "es",
+  "categories": [
+    "finance"
+  ]
+}
